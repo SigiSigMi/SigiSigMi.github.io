@@ -10,3 +10,6 @@ Unordered list:
 
 > This is a quote from my favorite character
 > ...
+
+
+<img src="https://free-images.com/tn/da3b/lake_minnewanka_11092005.jpg"/>
